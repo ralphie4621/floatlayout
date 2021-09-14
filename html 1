@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>HTML2</title>
+</head>
+
+<body>
+<h1> This is where my journey begins.</h1> 
+	<hr2>
+		
+<a href="img_cat.jpg"><img src="img_cat.jpg" width="500" height="400"></a>
+	
+<h3 style="color:cornflowerblue">The world is a beautiful place, but lacks the love it deserves.</h3>
+	
+<a href="img_nightsky.jpg"><img src="img_nightsky.jpg" width="500" height="400"></a>
+	
+<h2 style="color:darkslateblue;"> Will there be a goodtime? Let the time we have provide that answer.</h2>
+
+		<h3 style="color:dodgerblue">Enjoy life while we have it. That's the point of it right?</h3>
+		
+		<img src="img_guy.jpg" width="500" height="400"> 
+	</hr2>
+	</body>
+</html>
